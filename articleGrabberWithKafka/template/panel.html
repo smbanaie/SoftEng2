@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% end block title %}</title>
+    <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    <link href="{{ static_url('dist/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ static_url('dist/css/common.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ static_url('dist/css/fonts.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ static_url('dist/css/font-awesome.min.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ static_url('css/admin_system/AdminLTE.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ static_url('css/admin_system/_all-skins.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ static_url('css/admin_system/customs.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ static_url('dist/css/jquery-ui.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ static_url('dist/css/sumoselect.css') }}" rel="stylesheet" type="text/css">
+    {% block stylesheet %}{% end block stylesheet %}
+</head>
+<body class="skin-blue sidebar-mini">
+<img src="{{ static_url('img/spinner.gif') }}" id="LoadingImage" style="display: none; position: absolute; z-index: 500;top:250px;right: 50%;height: 100px;width: 100px">
+<div class="wrapper">
+    <header class="main-header">
+        <a href="#" class="logo">
+            <span class="logo-mini"><b class="fa fa-user"></b></span>
+            <span class="logo-lg"><b>پنل ادمین</b></span>
+        </a>
+        <nav class="navbar navbar-static-top" role="navigation">
+            <a href="#" class="sidebar-toggle pull-right" data-toggle="offcanvas" role="button">
+                <span class="sr-only">Toggle navigation</span>
+            </a>
+            <div class="navbar-custom-menu pull-left">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown messages-menu pull-right">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="fa fa-comment-o"></i>
+                            <span class="label label-success">12</span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="header"> نظر تایید نشده دارید.</li>
+                            <li>
+                                <ul class="menu">
+                                    <li>
+                                        <p>برای نمایش نظرات در سایت نیاز به تاید آنها توسط شماست.</p>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="footer"><a href="#">مشاهده تمام نظرات</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown notifications-menu pull-right">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="fa fa-question"></i>
+                            <span class="label label-warning">25</span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="header"> سوال پاسخ داده نشده دارید.</li>
+                            <li>
+                                <ul class="menu">
+                                    <li>
+                                        <p>برای نمایش سوالات در سایت نیاز به تایید شماست </p>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="footer"><a href="#">مشاهده همه</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown tasks-menu pull-right">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="fa fa-phone"></i>
+                            <span class="label label-danger">12</span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="header"> پیام مشاهده نشده دارید. </li>
+                            <li>
+                                <ul class="menu">
+                                    <li>
+                                        <p>پیام هایی را که از طریق بخش "تماس با ما" دریافت میشوند ، میتوانید در این قسمت بررسی کنید.</p>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="footer">
+                                <a href="#">مشاهده همه پیام ها</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown user user-menu pull-right">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <img src="" class="user-image" alt="User Image"/>
+                            <span class="hidden-xs"></span>
+                            <span class="hidden-xs"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li class="user-header">
+                                <img src="{{ static_url('dist/img/12831102773.jpg')  }}" class="img-circle" alt="User Image"/>
+                                <p> </p>
+                            </li>
+                            <li class="user-footer">
+                                <div class="pull-right">
+                                    <a href="/profile/edit" class="btn btn-default btn-flat">پروفایل</a>
+                                </div>
+                                <div class="pull-left">
+                                    <a href="/logout" class="btn btn-default btn-flat">خروج</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="pull-right">
+                        <a data-toggle="control-sidebar" style="cursor: pointer"><i class="fa fa-paint-brush"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <aside class="main-sidebar">
+        <section class="sidebar">
+            <div class="user-panel">
+                <div class="pull-right image">
+                    <img src="{{ static_url('dist/img/12831102773.jpg')  }}" class="img-circle" alt="User Image"/>
+                </div>
+                <div class="pull-right info">
+                    <p></p>
+                    <a><i class="fa fa-circle text-success"></i> آنلاین</a>
+                </div>
+            </div>
+            <ul class="sidebar-menu">
+                <li class="treeview {% if active == "home" or active == "profile_edit" or active == "change_pass" or active == "change_color" or active =="slider_setting" or active == "img_box_setting" %}active{% end if %}">
+                    <a href=""><i class="fa fa-tachometer"></i>&nbsp;&nbsp;<span>داشبورد</span><i class="fa fa-angle-left pull-left"></i></a>
+                    <ul class="treeview-menu">
+                        <li class="{% if active == "home" %}active{% end if %}"><a href="/"><i class="fa fa-circle-o"></i>&nbsp;&nbsp;خانه </a></li>
+                        <li class="{% if active == "search" %}active{% end if %}"><a href="/search"><i class="fa fa-circle-o"></i>&nbsp;&nbsp;جستوجو</a></li>
+                        <li class="{% if active == "log" %}active{% end if %}"><a href="/log"><i class="fa fa-circle-o"></i>&nbsp;&nbsp;گزارشات</a></li>
+
+
+                    </ul>
+                </li>
+            </ul>
+        </section>
+    </aside>
+    <div class="content-wrapper">
+        <div class="content no-padding-bottom">
+            <div class="row">
+                <section class="content-header">
+                    <ol class="breadcrumb no-margin">
+                        <li><a href="#"><i class="fa fa-dashboard"></i>&nbsp;&nbsp; خانه</a></li>
+                        {% block address-content %}{% end block address-content %}
+                    </ol>
+                </section>
+            </div>
+        </div>
+        <section class="content">
+            <div>
+                {% block content %}{% end block content %}
+            </div>
+        </section>
+    </div>
+    <footer class="main-footer">
+        &copy; کلیه حقوق محفوظ است.
+    </footer>
+    <aside class="control-sidebar control-sidebar-dark">
+        <ul class="nav nav-tabs nav-justified control-sidebar-tabs">
+        </ul>
+        <div class="tab-content">
+            <div class="tab-pane" id="control-sidebar-home-tab"></div>
+        </div>
+    </aside>
+</div>
+
+<script src="{{ static_url('dist/js/jquery-2.1.4.js') }}" type="text/javascript"></script>
+<script src="{{ static_url('dist/js/bootstrap.min.js') }}" type="text/javascript"></script>
+<script src="{{ static_url('js/app.min.js') }}" type="text/javascript"></script>
+<script src="{{ static_url('js/demo.js') }}" type="text/javascript"></script>
+<script src="{{ static_url('dist/js/jquery.sumoselect.min.js') }}" type="text/javascript"></script>
+<script src="{{ static_url('dist/js/jquery-ui.min.js') }}" type="text/javascript"></script>
+<script type="text/javascript">
+    $(".treeview-menu li").click(function(){
+        $(".treeview-menu li").removeClass("active");
+        $(this).addClass("active");
+    });
+</script>
+{% block javascript %}{% end block javascript %}
+</body>
+</html>

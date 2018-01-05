@@ -1,0 +1,18 @@
+/*---------------------------------------------fonts-----------------------------------------------*/
+@font-face {
+    font-family: "BHoma";
+    src: url("../../fonts/BHoma.eot"), url('../../fonts/BHoma.ttf'), url('../../fonts/BHoma.woff');
+}
+@font-face {
+    font-family: "BEsfehanBold";
+    src: url('../../fonts/BEsfehanBold.eot'), url('../../fonts/BEsfehanBold.ttf'), url('../../fonts/BEsfehanBold.woff');
+}
+@font-face {
+    font-family: "BNazanin";
+    src: url('../../fonts/BNazanin.eot'), url('../../fonts/BNazanin.ttf'), url('../../fonts/BNazanin.woff');
+}
+@font-face {
+    font-family: "BYekan";
+    src: url('../../fonts/BYekan.eot'), url('../../fonts/BYekan.ttf'), url('../../fonts/BYekan.woff');
+}
+/*--------------------------------------------end fonts--------------------------------------*/
