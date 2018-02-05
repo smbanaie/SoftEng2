@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83a9b542-f1b0-4ee1-8fda-da687f8681ee" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Microservices/Microservices_Designing_Deploying.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Microservices/The-InfoQ-eMag-Microservices-Monoliths-The-Reality=Beyond-the-Hype.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/classes/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/handlers/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/handlers/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/handlers/main/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/handlers/main/make_random.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/handlers/main/profile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/urls/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/urls/main_urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/users.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/boot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/config.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/boot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/classes/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/classes/cassandra_db.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/classes/crawlers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/classes/log.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/classes/producer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/conf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/config/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/config/config.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/consumer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/db/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/db/driver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/db/metadata.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/handler/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/handler/homeHandler.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/handler/logHandler.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/handler/searchHandler.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/start.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/css/admin_system/AdminLTE.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/css/admin_system/_all-skins.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/css/admin_system/customs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/css/shop_system/customs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/font-awesome-version2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/jquery-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/sumoselect.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/vmenuModule.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/img/12831102773.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/img/female.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/img/male.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/additional-methods.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/bootstrap-datepicker.fa.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/bootstrap-datepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/bootstrap-datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/date_picker_validation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/jquery-2.1.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/jquery.sumoselect.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/js/app.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/js/counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/js/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/template/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/template/log.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/template/panel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/template/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/موضوع پروژه.docx" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pelicanconf.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SoftwareEngineering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftwareEngineering" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftwareEngineering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftwareEngineering" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftwareEngineering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftwareEngineering" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\My GitHub Repos\SoftwareEngineering\content\articles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83a9b542-f1b0-4ee1-8fda-da687f8681ee" name="Default" comment="" />
+      <created>1517799710377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517799710377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="138" lean-forward="false" selection-start-line="9" selection-start-column="138" selection-end-line="9" selection-end-column="138" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
