@@ -2,96 +2,134 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83a9b542-f1b0-4ee1-8fda-da687f8681ee" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Microservices/Microservices_Designing_Deploying.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Microservices/The-InfoQ-eMag-Microservices-Monoliths-The-Reality=Beyond-the-Hype.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/classes/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/handlers/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/handlers/base.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/handlers/main/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/handlers/main/make_random.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/handlers/main/profile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/urls/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/urls/main_urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/ApiApp/users.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/boot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TornadoSampleAPI-master/config.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/boot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/classes/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/classes/cassandra_db.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/classes/crawlers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/classes/log.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/classes/producer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/conf.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/config/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/config/config.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/consumer.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/db/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/db/driver.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/db/metadata.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/handler/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/handler/homeHandler.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/handler/logHandler.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/handler/searchHandler.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/start.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/css/admin_system/AdminLTE.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/css/admin_system/_all-skins.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/css/admin_system/customs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/css/shop_system/customs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap-rtl.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/font-awesome-version2.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/fonts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/jquery-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/jquery-ui.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/sumoselect.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/css/vmenuModule.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/img/12831102773.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/img/female.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/img/male.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/additional-methods.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/bootstrap-datepicker.fa.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/bootstrap-datepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/bootstrap-datetimepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/date_picker_validation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/jquery-2.1.4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/jquery.sumoselect.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/jquery.validate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/dist/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/js/app.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/js/counter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/static/js/demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/template/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/template/log.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/template/panel.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/template/search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/articleGrabberWithKafka/موضوع پروژه.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/Microservices/Microservices_Designing_Deploying.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/Microservices/The-InfoQ-eMag-Microservices-Monoliths-The-Reality=Beyond-the-Hype.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/ApiApp/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/ApiApp/classes/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/ApiApp/handlers/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/ApiApp/handlers/base.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/ApiApp/handlers/main/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/ApiApp/handlers/main/make_random.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/ApiApp/handlers/main/profile.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/ApiApp/urls/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/ApiApp/urls/main_urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/ApiApp/users.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/boot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/TornadoSampleAPI-master/config.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/boot.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/classes/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/classes/cassandra_db.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/classes/crawlers.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/classes/log.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/classes/producer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/conf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/config/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/config/config.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/consumer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/db/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/db/driver.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/db/metadata.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/handler/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/handler/homeHandler.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/handler/logHandler.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/handler/searchHandler.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/start.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/css/admin_system/AdminLTE.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/css/admin_system/_all-skins.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/css/admin_system/customs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/css/shop_system/customs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/bootstrap-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/font-awesome-version2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/jquery-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/sumoselect.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/css/vmenuModule.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/img/12831102773.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/img/female.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/img/male.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/additional-methods.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/bootstrap-datepicker.fa.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/bootstrap-datepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/bootstrap-datetimepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/date_picker_validation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/jquery-2.1.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/jquery.sumoselect.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/dist/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/js/app.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/js/counter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/static/js/demo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/template/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/template/log.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/template/panel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/template/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/urls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/materials/articleGrabberWithKafka/موضوع پروژه.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2010/my-super-post.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/archives.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/author/alexis-metaireau.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/author/conan-doyle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/authors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/categories.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/category/python.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/pelican.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/publishing.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/pygment.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/typogrify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/css/wide.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/aboutme.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/bitbucket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/delicious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/github.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/gitorious.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/gittip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/google-groups.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/google-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/hackernews.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/lastfm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/linkedin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/reddit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/rss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/slideshare.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/speakerdeck.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/stackoverflow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/vimeo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/theme/images/icons/youtube.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pelicanconf.py" afterPath="$PROJECT_DIR$/pelicanconf.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -120,8 +158,8 @@
       <file leaf-file-name="pelicanconf.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pelicanconf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="294">
+              <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -135,6 +173,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/output/index.html" />
         <option value="$PROJECT_DIR$/pelicanconf.py" />
       </list>
     </option>
@@ -180,6 +219,11 @@
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="articles" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SoftwareEngineering" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftwareEngineering" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -221,9 +265,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -283,10 +326,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/output/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-689">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pelicanconf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state relative-caret-position="294">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           <folding />
         </state>
       </provider>

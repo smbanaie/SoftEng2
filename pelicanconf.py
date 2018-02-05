@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 
 STATIC_PATHS = ['static', 'downloads']
 ARTICLE_PATHS = ['articles']
-ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
